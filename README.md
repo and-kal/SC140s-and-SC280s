@@ -6,4 +6,4 @@ SC280s (i.e. SuperCollider code snippets with less than 280 characters) were a t
 
 Here's some of my own creations.
 
-Also included is a file with a bunch of SC140 tweets that are not my own, but taken from [https://github.com/celesteh/sc140/](celesteh's sc140 repo).
+Also included is a file with a bunch of SC140 tweets that are not my own, but taken from [celesteh's sc140 repo](https://github.com/celesteh/sc140/).
